@@ -7,3 +7,7 @@ cd GirvanNewman
 javac *.java
 
 java Main
+
+Dataset Link:
+
+https://snap.stanford.edu/data/ca-HepPh.html
